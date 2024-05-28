@@ -27,9 +27,9 @@ import (
 
 	"github.com/beevik/etree"
 	rtvalidator "github.com/mattermost/xml-roundtrip-validator"
-	"github.com/russellhaering/gosaml2/types"
-	dsig "github.com/russellhaering/goxmldsig"
-	"github.com/russellhaering/goxmldsig/etreeutils"
+	"github.com/mohammed-alhashem/gosaml2/types"
+	dsig "github.com/mohammed-alhashem/goxmldsig"
+	"github.com/mohammed-alhashem/goxmldsig/etreeutils"
 )
 
 const (

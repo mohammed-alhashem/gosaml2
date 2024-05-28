@@ -24,9 +24,9 @@ import (
 	"encoding/base64"
 	"encoding/xml"
 
-	saml2 "github.com/russellhaering/gosaml2"
-	"github.com/russellhaering/gosaml2/types"
-	dsig "github.com/russellhaering/goxmldsig"
+	saml2 "github.com/mohammed-alhashem/gosaml2"
+	"github.com/mohammed-alhashem/gosaml2/types"
+	dsig "github.com/mohammed-alhashem/goxmldsig"
 )
 
 func main() {

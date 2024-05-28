@@ -26,7 +26,7 @@ import (
 
 	"github.com/jonboulle/clockwork"
 	rtvalidator "github.com/mattermost/xml-roundtrip-validator"
-	dsig "github.com/russellhaering/goxmldsig"
+	dsig "github.com/mohammed-alhashem/goxmldsig"
 	"github.com/stretchr/testify/require"
 )
 
